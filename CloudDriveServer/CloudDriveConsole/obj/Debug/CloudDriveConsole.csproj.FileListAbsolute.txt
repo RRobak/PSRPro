@@ -1,0 +1,8 @@
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\bin\Debug\CloudDriveConsole.exe.config
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\bin\Debug\CloudDriveConsole.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\bin\Debug\CloudDriveConsole.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\obj\Debug\CloudDriveConsole.csproj.AssemblyReference.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\obj\Debug\CloudDriveConsole.csproj.SuggestedBindingRedirects.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\obj\Debug\CloudDriveConsole.csproj.CoreCompileInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\obj\Debug\CloudDriveConsole.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveConsole\obj\Debug\CloudDriveConsole.pdb

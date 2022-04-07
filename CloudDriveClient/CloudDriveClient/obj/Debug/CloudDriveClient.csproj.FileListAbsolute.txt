@@ -1,0 +1,7 @@
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\bin\Debug\CloudDriveClient.dll.config
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\bin\Debug\CloudDriveClient.dll
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\bin\Debug\CloudDriveClient.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\obj\Debug\CloudDriveClient.csproj.AssemblyReference.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\obj\Debug\CloudDriveClient.csproj.CoreCompileInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\obj\Debug\CloudDriveClient.dll
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveClient\obj\Debug\CloudDriveClient.pdb

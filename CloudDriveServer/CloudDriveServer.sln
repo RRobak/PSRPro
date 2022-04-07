@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveServer", "CloudDriveServer\CloudDriveServer.csproj", "{024A84B0-893C-4DE2-BD66-84CD431A21DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveServerHost", "CloudDriveServerHost\CloudDriveServerHost.csproj", "{AE019FDD-789C-42E4-8F82-95A56D71BB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveConsole", "CloudDriveConsole\CloudDriveConsole.csproj", "{8D5EEEF4-F8F0-4A18-AF0B-F44604AAE8D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024A84B0-893C-4DE2-BD66-84CD431A21DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024A84B0-893C-4DE2-BD66-84CD431A21DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024A84B0-893C-4DE2-BD66-84CD431A21DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024A84B0-893C-4DE2-BD66-84CD431A21DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE019FDD-789C-42E4-8F82-95A56D71BB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE019FDD-789C-42E4-8F82-95A56D71BB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE019FDD-789C-42E4-8F82-95A56D71BB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE019FDD-789C-42E4-8F82-95A56D71BB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5EEEF4-F8F0-4A18-AF0B-F44604AAE8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5EEEF4-F8F0-4A18-AF0B-F44604AAE8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5EEEF4-F8F0-4A18-AF0B-F44604AAE8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5EEEF4-F8F0-4A18-AF0B-F44604AAE8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E087829-E840-4D1A-80A1-B2A54849701D}
+	EndGlobalSection
+EndGlobal

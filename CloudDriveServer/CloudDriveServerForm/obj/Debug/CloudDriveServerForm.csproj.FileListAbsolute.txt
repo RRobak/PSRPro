@@ -1,0 +1,11 @@
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\bin\Debug\CloudDriveServerForm.exe.config
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\bin\Debug\CloudDriveServerForm.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\bin\Debug\CloudDriveServerForm.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.csproj.AssemblyReference.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.csproj.SuggestedBindingRedirects.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.Form1.resources
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.Properties.Resources.resources
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.csproj.GenerateResource.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.csproj.CoreCompileInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServerForm\obj\Debug\CloudDriveServerForm.pdb
