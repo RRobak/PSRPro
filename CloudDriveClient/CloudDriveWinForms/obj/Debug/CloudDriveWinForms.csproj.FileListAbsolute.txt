@@ -1,0 +1,12 @@
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe.config
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.AssemblyReference.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.SuggestedBindingRedirects.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Properties.Resources.resources
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.GenerateResource.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.CoreCompileInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Login.resources
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Register.resources
