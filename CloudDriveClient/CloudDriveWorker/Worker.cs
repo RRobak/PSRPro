@@ -1,3 +1,5 @@
+using CloudDriveWorker.Model;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
@@ -6,6 +8,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -13,17 +16,19 @@ namespace CloudDriveWorker
 {
     public class Worker : BackgroundService
     {
+        ClientRequest request=new ClientRequest();
         private readonly ILogger<Worker> _logger;
-
-        public Worker(ILogger<Worker> logger)
+        private readonly IConfiguration _configuration;
+        public Worker(ILogger<Worker> logger, IConfiguration configuration)
         {
+            _configuration = configuration;
             _logger = logger;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             byte[] bytes = new byte[1024];
-
+            byte[] msg = new byte[1024];
             try
             {
                 IPHostEntry host = Dns.GetHostEntry("localhost");
@@ -34,8 +39,13 @@ namespace CloudDriveWorker
                 {
                     sender.Connect(remoteEP);
                     Console.WriteLine("Socket connected to {0}", sender.RemoteEndPoint.ToString());
-                    byte[] msg = Encoding.ASCII.GetBytes("jeden<EOF>");
+                    byte[] eof = Encoding.ASCII.GetBytes("<EOF>");
+                    request.Request = "jeden";
+                    request.Email=_configuration.GetValue<string>("User:Email");
+                    request.Password=_configuration.GetValue<string>("User:Password");
+                    msg = JsonSerializer.SerializeToUtf8Bytes<ClientRequest>(request);
                     int bytesSent = sender.Send(msg);
+                    sender.Send(eof);
                     int bytesRec = sender.Receive(bytes);
                     Console.WriteLine("Echoed test = {0}",Encoding.ASCII.GetString(bytes, 0, bytesRec));
                     sender.Shutdown(SocketShutdown.Both);

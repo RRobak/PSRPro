@@ -1,9 +1,11 @@
-﻿using System;
+﻿using ServerCloudDrive.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace ServerCloudDrive
@@ -12,6 +14,7 @@ namespace ServerCloudDrive
     {
         public static void StartServer()
         {
+            ClientRequest request;
             IPHostEntry host = Dns.GetHostEntry("localhost");
             IPAddress ipAddress = host.AddressList[0];
             IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 11000);
@@ -33,16 +36,20 @@ namespace ServerCloudDrive
                         bytes = new byte[1024];
                         int bytesRec = handler.Receive(bytes);
                         data += Encoding.ASCII.GetString(bytes, 0, bytesRec);
+                        Console.WriteLine(data);
                         if (data.IndexOf("<EOF>") > -1)
                         {
                             break;
                         }
                     }
                     data=data.Substring(0,data.Length - 5);
+                    request = JsonSerializer.Deserialize<ClientRequest>(data);
+                    Console.WriteLine(request.Request);
+                    Console.WriteLine(request.Email);
+                    Console.WriteLine(request.Password);
+                   
                     switch (data)
                     {
-                        case "Login":
-                            break;
                         case "Register":
                             break;
                         case "Synchronize":
