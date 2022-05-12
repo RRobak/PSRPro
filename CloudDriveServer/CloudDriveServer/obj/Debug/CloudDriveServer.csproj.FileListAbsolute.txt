@@ -1,7 +1,0 @@
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\bin\Debug\CloudDriveServer.dll.config
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\bin\Debug\CloudDriveServer.dll
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\bin\Debug\CloudDriveServer.pdb
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\obj\Debug\CloudDriveServer.csproj.AssemblyReference.cache
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\obj\Debug\CloudDriveServer.csproj.CoreCompileInputs.cache
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\obj\Debug\CloudDriveServer.dll
-D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\CloudDriveServer\obj\Debug\CloudDriveServer.pdb

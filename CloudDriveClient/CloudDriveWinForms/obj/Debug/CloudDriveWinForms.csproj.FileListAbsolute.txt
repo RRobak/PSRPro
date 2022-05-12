@@ -10,3 +10,7 @@ D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriv
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.pdb
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Login.resources
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Register.resources
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe.manifest
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.application
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.exe.manifest
+D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.application

@@ -1,0 +1,16 @@
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.exe
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.deps.json
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.runtimeconfig.json
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.runtimeconfig.dev.json
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.dll
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\bin\Debug\net5.0\ServerCloudDrive.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.csproj.AssemblyReference.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.AssemblyInfoInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.AssemblyInfo.cs
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.csproj.CoreCompileInputs.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.dll
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\refint\ServerCloudDrive.dll
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.pdb
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ServerCloudDrive.genruntimeconfig.cache
+D:\Studia\PSR\PRO\PSRPro\CloudDriveServer\ServerCloudDrive\obj\Debug\net5.0\ref\ServerCloudDrive.dll

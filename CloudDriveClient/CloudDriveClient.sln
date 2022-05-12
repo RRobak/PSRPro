@@ -3,13 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveClient", "CloudDriveClient\CloudDriveClient.csproj", "{7824A4FD-BB39-4740-A230-3AF7AA3B9620}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoudDriveClientHost", "CoudDriveClientHost\CoudDriveClientHost.csproj", "{EC23EB83-F1D9-42CB-B84D-EB3B17FDB48D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveClientConsole", "CloudDriveClientConsole\CloudDriveClientConsole.csproj", "{D01958F0-33AC-4B94-BCBD-7DC3CD6FA067}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveWinForms", "CloudDriveWinForms\CloudDriveWinForms.csproj", "{73C22DDA-9225-46A8-BFA7-9A11726F4477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDriveWorker", "CloudDriveWorker\CloudDriveWorker.csproj", "{C8ED47F5-E34F-452C-B285-4301F4090935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7824A4FD-BB39-4740-A230-3AF7AA3B9620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7824A4FD-BB39-4740-A230-3AF7AA3B9620}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7824A4FD-BB39-4740-A230-3AF7AA3B9620}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7824A4FD-BB39-4740-A230-3AF7AA3B9620}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC23EB83-F1D9-42CB-B84D-EB3B17FDB48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC23EB83-F1D9-42CB-B84D-EB3B17FDB48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC23EB83-F1D9-42CB-B84D-EB3B17FDB48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC23EB83-F1D9-42CB-B84D-EB3B17FDB48D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D01958F0-33AC-4B94-BCBD-7DC3CD6FA067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D01958F0-33AC-4B94-BCBD-7DC3CD6FA067}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D01958F0-33AC-4B94-BCBD-7DC3CD6FA067}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D01958F0-33AC-4B94-BCBD-7DC3CD6FA067}.Release|Any CPU.Build.0 = Release|Any CPU
 		{73C22DDA-9225-46A8-BFA7-9A11726F4477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73C22DDA-9225-46A8-BFA7-9A11726F4477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73C22DDA-9225-46A8-BFA7-9A11726F4477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73C22DDA-9225-46A8-BFA7-9A11726F4477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ED47F5-E34F-452C-B285-4301F4090935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ED47F5-E34F-452C-B285-4301F4090935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ED47F5-E34F-452C-B285-4301F4090935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ED47F5-E34F-452C-B285-4301F4090935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

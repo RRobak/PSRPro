@@ -39,5 +39,27 @@ namespace CloudDriveWinForms
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine(this.LoginEmail.Text);
+            Console.WriteLine(this.LoginPassword.Text);
+            this.InfoLabel.Text = this.LoginEmail.Text + this.LoginPassword.Text;
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void Login_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            /*var window = MessageBox.Show(
+        "Close the window?",
+        "Are you sure?",
+        MessageBoxButtons.YesNo);*/
+            e.Cancel=true; 
+        }
     }
 }
