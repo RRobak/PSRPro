@@ -14,3 +14,18 @@ D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriv
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.application
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.exe.manifest
 D:\Studia\PSR\PRO\PSRPro\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.application
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe.config
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe.manifest
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.application
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.exe
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\bin\Debug\CloudDriveWinForms.pdb
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csprojAssemblyReference.cache
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Login.resources
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Properties.Resources.resources
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.Register.resources
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.GenerateResource.cache
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.csproj.CoreCompileInputs.cache
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.exe.manifest
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.application
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.exe
+D:\Stopien II\Rozproszone\projekt\CloudDriveClient\CloudDriveWinForms\obj\Debug\CloudDriveWinForms.pdb

@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-CloudDriveBackgroudServer-2A9D6EB5-2E76-463B-B29B-B2FC1221DDE9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudDriveBackgroudServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
